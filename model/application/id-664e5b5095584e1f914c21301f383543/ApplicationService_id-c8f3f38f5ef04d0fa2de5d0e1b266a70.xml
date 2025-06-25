@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Сервис прямых скидок"
+    id="id-c8f3f38f5ef04d0fa2de5d0e1b266a70"
+    documentation="Discount.Get"/>

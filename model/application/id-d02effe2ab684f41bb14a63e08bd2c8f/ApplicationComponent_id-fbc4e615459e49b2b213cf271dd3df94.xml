@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Пегас УК"
+    id="id-fbc4e615459e49b2b213cf271dd3df94"
+    documentation="Подразумевается модули релевантные только для центральной базы (такие как общие процессы или консолидация данных из филиальных баз)"/>
